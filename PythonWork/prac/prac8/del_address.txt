@@ -1,0 +1,10 @@
+101,aa,12345678,Beijing
+102,bb,23456781,shanghai
+113,zz,34567812,tianjing
+104,zz,34567812,tianjing
+111,zz,34567812,tianjing
+105,zz,34567812,tianjing
+106,zz,34567812,tianjing
+112,zz,34567812,tianjing
+107,zz,34567812,tianjing
+108,zz,34567812,tianjing
